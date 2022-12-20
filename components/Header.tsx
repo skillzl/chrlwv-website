@@ -142,7 +142,7 @@ const Header: React.FC = () => {
                 })}
               </motion.div>
             
-            <Link href="https://github.com/chrlwv" passHref>
+            <Link href="https://github.com/skillzl/chrlwv-app" passHref>
               <a target="_blank" className={buttonStyle}>
                 <RiGithubLine />
               </a>
