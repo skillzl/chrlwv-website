@@ -5,7 +5,7 @@ const Logo: React.FC = () => {
 
   return (
     <>
-      <img className='separator' src='https://japi.rest/discord/v1/user/1049708735821516830/avatar?size=32' /><h1 className="text-2xl font-bold text-gray-400 dark:text-slate-100">{title}</h1>
+      <img className='separator' src='https://cdn.discordapp.com/attachments/1050110818773110855/1109097667038019735/Untitled-1_copy.png' /><h1 className="text-2xl font-bold text-gray-400 dark:text-slate-100">{title}</h1>
     </>
   )
 }
