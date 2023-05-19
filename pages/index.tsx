@@ -17,7 +17,7 @@ return (
     <br />
     <br />
     <div className="mb-4">
-      <img src="https://japi.rest/discord/v1/user/565960314970177556/avatar?size=256" />
+      <img src="https://cdn.discordapp.com/attachments/1050110818773110855/1109097075917991966/421171b65bc28d799c7e565afd5e6499-photoaidcom-cropped.png" />
       <br />
       <h2 className="text-3xl font-medium mb-1">chrlwv.tech (offline)</h2>
       <div>
